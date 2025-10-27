@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lea.pulse",
+      "sha256_cert_fingerprints": [
+        "15:1C:F0:28:25:C5:AE:24:A0:DD:D8:70:9D:DB:DE:F2:7A:0D:34:EE:D2:4F:F1:82:E2:70:42:4F:6D:31:EE:F4",
+        "E8:D4:FD:3F:B7:54:B0:77:09:FD:40:D3:9B:C9:A4:ED:BE:B5:DF:5F:B6:05:E7:2C:34:B5:26:B0:4A:1A:7A:FB"
+      ]
+    }
+  }
+]
